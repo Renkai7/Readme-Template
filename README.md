@@ -2,7 +2,11 @@
 
 # Project Title
 
-## Project description
+<!-- Example of project description -->
+
+Foobar is a Python library for dealing with word pluralization.
+
+<!-- Example of code output -->
 
 ## Usage
 
@@ -18,3 +22,7 @@ foobar.pluralize('goose')
 # returns 'phenomenon'
 foobar.singularize('phenomena')
 ```
+
+<!-- Place images here -->
+
+![Image Placeholder](image.png)
